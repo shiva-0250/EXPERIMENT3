@@ -31,3 +31,5 @@ class MainClass {
     }
 }
 ```
+# OUTPUT:
+![output of 3a](3a.png)
